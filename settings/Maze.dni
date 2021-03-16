@@ -1,0 +1,183 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-1267487433
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[SWOTraceHWSettings]
+OverrideDefaultClocks=0
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[Breakpoints]
+Count=0
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[JLinkDriver]
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[stlink]
+stlinkserialNo=E4CAD37A
+stlinkfoundProbes=
+[StLinkDriver]
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+[watch_formats]
+Fmt0={W}42:c	3	0
+Fmt1={W}42:jiansu_flag	3	0
+Fmt2={W}42:lingshichengliL	3	0
+Fmt3={W}42:lingshichengliR	3	0
+Fmt4={W}42:quzabo	3	0
+Fmt5={W}42:start_flag	3	0
+Fmt6={W}42:start_speedr	3	0
+Fmt7={W}42:zanshi	3	0
+Fmt8={W}42:zhixianjuli	3	0
+Fmt9={W}42:zijiaozheng_flag	3	0
+Fmt10={W}42:zijiaozheng_time	3	0
+[Trace1]
+Enabled=0
+ShowSource=1
+[Trace2]
+Enabled=0
+ShowSource=0
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[PowerLog]
+Title_0=I0
+Symbol_0=0 4 0
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+LiveEnabled=0
+LiveFile=PowerLogLive.log
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[EventLog]
+Title_0=Ch3
+Symbol_0=0 4 1
+Title_1=Ch2
+Symbol_1=0 4 1
+Title_2=Ch1
+Symbol_2=0 4 1
+Title_3=Ch0
+Symbol_3=0 4 1
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[PowerProbe]
+Frequency=10000
+Probe0=I0
+ProbeSetup0=2 1 1 2 0 0
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_DATA" "TIM_OC3Init" 0 0 0 0 4294967295
+Bp1=_ 0 "EMUL_DATA" "PWM2_Init" 0 0 0 0 4294967295
+Bp2=_ 0 "EMUL_DATA" "sensorDebug" 0 0 0 0 4294967295
+Bp3=_ 0 "EMUL_DATA" "sensorDebug" 0 0 0 0 4294967295
+Bp4=_ 0 "EMUL_DATA" "__GucDistance[__LEFT  ]" 0 0 0 0 4294967295
+Bp5=_ 0 "EMUL_DATA" "mouseTurnright_180" 0 0 0 0 4294967295
+Count=6
+[Aliases]
+A0=_ "C:\Users\Administrator.EA2NHXADZ62VAR5\Desktop\STM32-Maze\core\startup_stm32f10x_hd.s" ""
+A1=_ "C:\Users\Administrator.EA2NHXADZ62VAR5\Desktop\STM32-Maze\lib\src\stm32f10x_rcc.c" ""
+A2=_ "C:\Users\Administrator\Desktop\moni\红外测距\红外不同时发射\Scr\main.c" ""
+A3=_ "C:\Users\Administrator\Desktop\moni\红外测距\红外不同时发射\core\system_stm32f10x.c" ""
+A4=_ "C:\Users\Administrator\Desktop\moni\红外测距\红外测距+7289\Scr\main.c" ""
+A5=_ "C:\Users\Administrator\Desktop\moni\红外测距\红外测距+7289（改）\Scr\main.c" ""
+A6=_ "C:\Users\Administrator\Desktop\moni\红外测距\新版电脑鼠程序1月21日晚\Scr\main.c" ""
+A7=_ "C:\Users\Administrator\Desktop\moni\四轮电脑鼠(新驱动)\Scr\main.c" ""
+A8=_ "C:\Users\Administrator\Desktop\stm32(电脑鼠程序)\stm32_mouse(zlg7289)\core\system_stm32f10x.c" "C:\Users\Administrator\Desktop\stm32(电脑鼠程序)\stm32_mouse(zlg7289+IR+ETR)\stm32_mouse(zlg7289+IR)\core\system_stm32f10x.c"
+A9=_ "C:\Users\Administrator\Desktop\stm32(电脑鼠程序)\stm32_mouse\core\system_stm32f10x.c" ""
+A10=_ "C:\Users\Administrator\Desktop\stm32_mouse(1024)\core\system_stm32f10x.c" ""
+A11=_ "C:\Users\Administrator\Desktop\stm32_mouse(1024)\lib\src\stm32f10x_gpio.c" ""
+A12=_ "C:\Users\Administrator\Desktop\四轮电脑鼠(3月8   3)\四轮电脑鼠(3月8   3)\Scr\main.c" ""
+A13=_ "C:\Users\Administrator\Desktop\四轮电脑鼠(dome)1\Scr\main.c" ""
+A14=_ "C:\Users\Administrator\Desktop\四轮电脑鼠(hai)\四轮电脑鼠(4.1号)\Scr\main.c" ""
+A15=_ "C:\Users\Administrator\Desktop\新建文件夹\模拟吸盘鼠45度完善完成+冲刺（给启诚）\模拟吸盘鼠45度完善封装完成+冲刺\core\startup_stm32f10x_hd.s" ""
+A16=_ "C:\Users\HASEE\Desktop\四轮电脑鼠45度-注释（2017.0721）\四轮电脑鼠45度-20161127 - 副本\core\startup_stm32f10x_hd.s" ""
+A17=_ "C:\Users\you\Desktop\四轮电脑鼠不用陀螺仪20151004晚\lib\src\stm32f10x_usart.c" ""
+A18=_ "E:\电脑鼠\四轮\四轮电脑鼠(3月8   3)\Scr\main.c" ""
+A19=_ "E:\电脑鼠\四轮\四轮电脑鼠(dome)\Scr\main.c" ""
+A20=_ "E:\四轮电脑鼠\四轮电脑鼠(dome)1\Scr\main.c" ""
+A21=_ "E:\四轮电脑鼠\四轮电脑鼠不用陀螺仪20151004\Scr\main.c" ""
+Count=22
+SuppressDialog=1

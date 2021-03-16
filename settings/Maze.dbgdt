@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>980</ColumnWidth1>
+        <ColumnWidth2>261</ColumnWidth2>
+        <ColumnWidth3>65</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>65</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>ADC_ConvertedValueLocal[0]</item><item>ADC_ConvertedValueLocal[1]</item><item>ADC_ConvertedValueLocal[2]</item><item>ADC_ConvertedValueLocal[3]</item><item>ADC_ConvertedValue[0]</item><item>ADC_ConvertedValue[1]</item><item>ADC_ConvertedValue[2]</item><item>ADC_ConvertedValue[3]</item><item>W</item><item>GucGoHead</item><item>GusDistance_L_Near</item><item>GusDistance_R_Near</item><item>voltageDetectRef</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>268</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1><StaticWatch><expressions><item>ucIRCheck</item><item>__GmSPID.sRef</item><item>c</item><item>__GmWPID.sFeedBack</item><item>bianmaqijiaodu</item><item>zhixianjuli</item><item>quzabo</item><item>jiao</item><item>Angle_TLY_Average</item><item>juli</item><item>dianya</item><item>start_flag</item><item>start_speedr</item><item>jiansu_flag</item><item>ADCMVdianya</item><item>ADCMVdianyar</item><item>leftdis</item><item>rightdis</item><item>fldis</item><item>frdis</item><item>GsTpusle_T</item><item>jiansu_flag</item><item>zijiaozheng</item><item>jiao</item><item>Angle_TLY_Average</item><item>zijiaozheng_time</item><item>ADCMVdianyar</item><item>__GmLPID.usEncoder_new</item><item>codernumber</item><item>zhixianjuli</item><item>sum_zijiaozheng</item><item>__GiMaxSpeed</item><item>__GmSPID.sFeedBack</item><item>fldis</item><item>frdis</item><item>__GmLeft.uiPulseCtr</item><item>__GmRight.uiPulseCtr</item><item>__GmRight.uiPulse</item><item>__GmLeft.uiPulse</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>151</item><item>150</item><item>100</item><item>266</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></StaticWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24433-5132</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-23910-5141</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2413-5135</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Maze</ExpandedNode><ExpandedNode>Maze/scr</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-21326-3085</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd0><Tabs><Tab><Identity>TabID-30889-10771</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\Mouse_Config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1895</SelStart2><SelEnd2>1895</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\Mouse_Drive.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>59</YPos2><SelStart2>16463</SelStart2><SelEnd2>16463</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>38</YPos2><SelStart2>86527</SelStart2><SelEnd2>86527</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0496C420><key>iaridepm.enu1</key></Toolbar-0496C420></Sizes></Row0><Row1><Sizes><Toolbar-0A0F8E38><key>debuggergui.enu1</key></Toolbar-0A0F8E38></Sizes></Row1><Row2><Sizes><Toolbar-0A0F8F00><key>armjlink2.enu1</key></Toolbar-0A0F8F00></Sizes></Row2></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>646</Bottom><Right>139</Right><x>-2</x><y>-2</y><xscreen>254</xscreen><yscreen>479</yscreen><sizeHorzCX>165365</sizeHorzCX><sizeHorzCY>613316</sizeHorzCY><sizeVertCX>91797</sizeVertCX><sizeVertCY>829706</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>646</Bottom><Right>469</Right><x>-2</x><y>-2</y><xscreen>166</xscreen><yscreen>151</yscreen><sizeHorzCX>108073</sizeHorzCX><sizeHorzCY>193342</sizeHorzCY><sizeVertCX>306641</sizeVertCX><sizeVertCY>829706</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd0><Rect><Top>-2</Top><Left>467</Left><Bottom>646</Bottom><Right>667</Right><x>467</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>130208</sizeHorzCX><sizeHorzCY>256082</sizeHorzCY><sizeVertCX>130208</sizeVertCX><sizeVertCY>829706</sizeVertCY></Rect></Wnd0></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>42</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>44</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>56338</sizeHorzCY><sizeVertCX>165365</sizeVertCX><sizeVertCY>613316</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

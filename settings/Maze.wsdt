@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Maze/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>122</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Disassembly><col-names><item>Disassembly</item><item>_I0</item></col-names><col-widths><item>500</item><item>20</item></col-widths><DisasmHistory/><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>224</ShowInstrProfiling></Disassembly><StaticWatch><PreferedWindows><Position>4</Position><ScreenPosX>652</ScreenPosX><ScreenPosY>263</ScreenPosY><Windows/></PreferedWindows></StaticWatch><Find-All-Declarations><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-Declarations><Find-All-References><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-References><Select-Ambiguous-Definitions><ColumnWidth0>529</ColumnWidth0><ColumnWidth1>75</ColumnWidth1><ColumnWidth2>908</ColumnWidth2></Select-Ambiguous-Definitions><Find-in-Files><ColumnWidth0>569</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>854</ColumnWidth2><ColumnWidth3>379</ColumnWidth3></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19707-3378</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Maze</ExpandedNode><ExpandedNode>Maze/Output</ExpandedNode><ExpandedNode>Maze/fz</ExpandedNode><ExpandedNode>Maze/lib</ExpandedNode><ExpandedNode>Maze/mouseclub</ExpandedNode><ExpandedNode>Maze/scr</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5424-4260</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-1832-8301</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-31043-32041</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab><Tab><Identity>TabID-9074-419</Identity><TabName>References</TabName><Factory>Find-All-References</Factory><Session/></Tab><Tab><Identity>TabID-20221-20695</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-30242-17771</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\Mouse_Config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>62</YPos2><SelStart2>1895</SelStart2><SelEnd2>1895</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\Mouse_Drive.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>66</YPos2><SelStart2>4917</SelStart2><SelEnd2>4917</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>273</YPos2><SelStart2>1462</SelStart2><SelEnd2>1462</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\core\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\stmflash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>15</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Scr\Maze.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>6224</SelStart2><SelEnd2>6224</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04ACC420><key>iaridepm.enu1</key></Toolbar-04ACC420></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>425</Bottom><Right>213</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>139974</sizeVertCX><sizeVertCY>546735</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>311</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>313</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>400768</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
